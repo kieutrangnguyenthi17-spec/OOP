@@ -1,0 +1,14 @@
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\bin\Debug\net8.0\CaDelegate.exe
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\bin\Debug\net8.0\CaDelegate.deps.json
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\bin\Debug\net8.0\CaDelegate.runtimeconfig.json
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\bin\Debug\net8.0\CaDelegate.dll
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\bin\Debug\net8.0\CaDelegate.pdb
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\CaDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\CaDelegate.AssemblyInfoInputs.cache
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\CaDelegate.AssemblyInfo.cs
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\CaDelegate.csproj.CoreCompileInputs.cache
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\CaDelegate.dll
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\refint\CaDelegate.dll
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\CaDelegate.pdb
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\CaDelegate.genruntimeconfig.cache
+D:\HK1-N2\OOP\Tuan05_oop\CaDelegate\obj\Debug\net8.0\ref\CaDelegate.dll

@@ -1,0 +1,7 @@
+D:\HK1-N2\OOP\Tuan05_oop\CSGenericdemo\obj\Debug\CSGenericdemo.csproj.AssemblyReference.cache
+D:\HK1-N2\OOP\Tuan05_oop\CSGenericdemo\obj\Debug\CSGenericdemo.csproj.CoreCompileInputs.cache
+D:\HK1-N2\OOP\Tuan05_oop\CSGenericdemo\bin\Debug\CSGenericdemo.exe.config
+D:\HK1-N2\OOP\Tuan05_oop\CSGenericdemo\bin\Debug\CSGenericdemo.exe
+D:\HK1-N2\OOP\Tuan05_oop\CSGenericdemo\bin\Debug\CSGenericdemo.pdb
+D:\HK1-N2\OOP\Tuan05_oop\CSGenericdemo\obj\Debug\CSGenericdemo.exe
+D:\HK1-N2\OOP\Tuan05_oop\CSGenericdemo\obj\Debug\CSGenericdemo.pdb
