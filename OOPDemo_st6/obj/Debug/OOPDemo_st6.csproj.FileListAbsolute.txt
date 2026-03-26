@@ -1,0 +1,7 @@
+D:\HK1-N2\OOP\Tuan01_oop\OOPDemo_st6\bin\Debug\OOPDemo_st6.exe.config
+D:\HK1-N2\OOP\Tuan01_oop\OOPDemo_st6\bin\Debug\OOPDemo_st6.exe
+D:\HK1-N2\OOP\Tuan01_oop\OOPDemo_st6\bin\Debug\OOPDemo_st6.pdb
+D:\HK1-N2\OOP\Tuan01_oop\OOPDemo_st6\obj\Debug\OOPDemo_st6.csproj.AssemblyReference.cache
+D:\HK1-N2\OOP\Tuan01_oop\OOPDemo_st6\obj\Debug\OOPDemo_st6.csproj.CoreCompileInputs.cache
+D:\HK1-N2\OOP\Tuan01_oop\OOPDemo_st6\obj\Debug\OOPDemo_st6.exe
+D:\HK1-N2\OOP\Tuan01_oop\OOPDemo_st6\obj\Debug\OOPDemo_st6.pdb
