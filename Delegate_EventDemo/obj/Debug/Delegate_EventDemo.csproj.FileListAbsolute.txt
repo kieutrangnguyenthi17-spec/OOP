@@ -1,0 +1,7 @@
+D:\HK1-N2\OOP\Tuan04_oop\Delegate_EventDemo\bin\Debug\Delegate_EventDemo.exe.config
+D:\HK1-N2\OOP\Tuan04_oop\Delegate_EventDemo\bin\Debug\Delegate_EventDemo.exe
+D:\HK1-N2\OOP\Tuan04_oop\Delegate_EventDemo\bin\Debug\Delegate_EventDemo.pdb
+D:\HK1-N2\OOP\Tuan04_oop\Delegate_EventDemo\obj\Debug\Delegate_EventDemo.csproj.AssemblyReference.cache
+D:\HK1-N2\OOP\Tuan04_oop\Delegate_EventDemo\obj\Debug\Delegate_EventDemo.csproj.CoreCompileInputs.cache
+D:\HK1-N2\OOP\Tuan04_oop\Delegate_EventDemo\obj\Debug\Delegate_EventDemo.exe
+D:\HK1-N2\OOP\Tuan04_oop\Delegate_EventDemo\obj\Debug\Delegate_EventDemo.pdb

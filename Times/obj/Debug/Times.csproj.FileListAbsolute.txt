@@ -1,0 +1,7 @@
+D:\HK1-N2\OOP\Tuan04_oop\Times\bin\Debug\Times.exe.config
+D:\HK1-N2\OOP\Tuan04_oop\Times\bin\Debug\Times.exe
+D:\HK1-N2\OOP\Tuan04_oop\Times\bin\Debug\Times.pdb
+D:\HK1-N2\OOP\Tuan04_oop\Times\obj\Debug\Times.csproj.AssemblyReference.cache
+D:\HK1-N2\OOP\Tuan04_oop\Times\obj\Debug\Times.csproj.CoreCompileInputs.cache
+D:\HK1-N2\OOP\Tuan04_oop\Times\obj\Debug\Times.exe
+D:\HK1-N2\OOP\Tuan04_oop\Times\obj\Debug\Times.pdb

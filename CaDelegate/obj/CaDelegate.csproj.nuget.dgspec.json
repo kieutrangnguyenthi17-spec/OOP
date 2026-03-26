@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HK1-N2\\OOP\\Tuan05_oop\\CaDelegate\\CaDelegate.csproj": {}
+  },
+  "projects": {
+    "D:\\HK1-N2\\OOP\\Tuan05_oop\\CaDelegate\\CaDelegate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HK1-N2\\OOP\\Tuan05_oop\\CaDelegate\\CaDelegate.csproj",
+        "projectName": "CaDelegate",
+        "projectPath": "D:\\HK1-N2\\OOP\\Tuan05_oop\\CaDelegate\\CaDelegate.csproj",
+        "packagesPath": "C:\\Users\\nnhat\\.nuget\\packages\\",
+        "outputPath": "D:\\HK1-N2\\OOP\\Tuan05_oop\\CaDelegate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nnhat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

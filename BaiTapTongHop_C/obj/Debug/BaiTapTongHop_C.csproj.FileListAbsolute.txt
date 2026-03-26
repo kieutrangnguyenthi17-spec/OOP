@@ -1,0 +1,7 @@
+D:\HK1-N2\OOP\Tuan04_oop\BaiTapTongHop_C\bin\Debug\BaiTapTongHop_C.exe.config
+D:\HK1-N2\OOP\Tuan04_oop\BaiTapTongHop_C\bin\Debug\BaiTapTongHop_C.exe
+D:\HK1-N2\OOP\Tuan04_oop\BaiTapTongHop_C\bin\Debug\BaiTapTongHop_C.pdb
+D:\HK1-N2\OOP\Tuan04_oop\BaiTapTongHop_C\obj\Debug\BaiTapTongHop_C.csproj.AssemblyReference.cache
+D:\HK1-N2\OOP\Tuan04_oop\BaiTapTongHop_C\obj\Debug\BaiTapTongHop_C.csproj.CoreCompileInputs.cache
+D:\HK1-N2\OOP\Tuan04_oop\BaiTapTongHop_C\obj\Debug\BaiTapTongHop_C.exe
+D:\HK1-N2\OOP\Tuan04_oop\BaiTapTongHop_C\obj\Debug\BaiTapTongHop_C.pdb
